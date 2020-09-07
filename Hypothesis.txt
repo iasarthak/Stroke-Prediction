@@ -1,0 +1,26 @@
+So, we will divide our set of factors into three parts-
+
+1. Personal Details-
+	1) Age
+	2) Sex
+	3) Marital Status (Married, Unmarried, Divorced, Separated)
+	4) Weight
+	5) Height
+	(We can find BMI using Weight and Height which is a good indicator of many health problems)
+2. Medical History-
+	1) Blood Pressure Levels
+	2) Cholesterol Levels
+	3) Blood Sugar Levels
+	4) Pulse Rate (Atrial Fibrillaton)
+	5) Family History of Heart Problems 
+3. Lifestyle
+    	1) Drug Consumption (High, Moderate, Low, None)
+    	2) Avg number of hours of sleep per day
+    	3) Exercise (Regular/ Ocassionally/ None)
+    	4) History of Heart Problems (More than 1 Year Ago/ Less Than 2 years/ Never) 
+    	5) Smoker (Y/N)
+    	6) Caffeine Consumption (High/Moderate/Low/None)
+    	7) Alcohol Consumption (High/Moderate/Low/None)
+    	8) Junk Food Intake (High/Moderate/Low/None)
+    	9) Any Current Medication
+    	10) Past Medical Problems associated with particular organs (Stomach/Kidney/Lungs etc.)
